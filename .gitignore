@@ -1,0 +1,16 @@
+# Ignore Python virtual environment
+mnist_env/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore dataset or large files (optional)
+*.h5
+*.keras
+*.ckpt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
